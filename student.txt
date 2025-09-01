@@ -1,0 +1,4 @@
+name :vamsikrishna
+suc:2352320130
+roll-no:46
+class:BCA
